@@ -1,3 +1,4 @@
+GOOS=windows
 set GO111MODULE=
 set GOARCH=amd64
 set GOBIN=
@@ -12,7 +13,6 @@ set GOINSECURE=
 set GOMODCACHE=C:\Users\xliang8\go\pkg\mod
 set GONOPROXY=
 set GONOSUMDB=
-set GOOS=windows
 set GOPATH=C:\Users\xliang8\go
 set GOPRIVATE=
 set GOPROXY=https://proxy.golang.org,direct
@@ -36,4 +36,4 @@ set CGO_CXXFLAGS=-g -O2
 set CGO_FFLAGS=-g -O2
 set CGO_LDFLAGS=-g -O2
 set PKG_CONFIG=pkg-config
-set GOGCCFLAGS=-m64 -mthreads -fno-caret-diagnostics -Qunused-arguments -Wl,--no-gc-sections -fmessage-length=0 -fdebug-prefix-map=C:\Users\xliang8\AppData\Local\Temp\go-build1185669219=/tmp/go-build -gno-record-gcc-switches
+set GOGCCFLAGS=-m64 -mthreads -fno-caret-diagnostics -Qunused-arguments -Wl,--no-gc-sections -fmessage-length=0 -fdebug-prefix-map=C:\Users\xliang8\AppData\Local\Temp\go-build3671839971=/tmp/go-build -gno-record-gcc-switches
